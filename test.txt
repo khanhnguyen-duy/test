@@ -1,7 +1,9 @@
-123sjglkzvb;knsfndaf
-halo    0 123
+<<<<<<< HEAD
 
 
+halo123
+
+123
 123123
 
 11234
